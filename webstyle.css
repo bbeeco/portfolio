@@ -1,13 +1,17 @@
 .entire_sidebar{
     background-color: #fabe4d;
     width: 22%;
-    height: 82%;
+    height: 764px;
     display: block;
     text-decoration: none;
     font-size:  30;
     align-content: center;
+    text-align: center;
 }
 ul{
     align-content: center;
     font-size: 30; 
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
 }
