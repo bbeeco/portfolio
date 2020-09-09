@@ -9,9 +9,22 @@
     text-align: center;
 }
 ul{
-    align-content: center;
+    width: 22%;
+    height: 764px;
     font-size: 30; 
     list-style: none;
+    list-style-type: none;
     text-decoration: none;
     text-align: center;
+    align-content: center
+    text-decoration-line: none;
+}
+a{
+    width: 22%;
+    height: 764px;
+    text-decoration: none;
+    text-align: center;
+    text-decoration-line: none;
+    font-size: 30;
+    align-items: center;
 }
