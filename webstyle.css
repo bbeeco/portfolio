@@ -17,7 +17,7 @@ ul{
     text-align: center;
     align-content: center;
     text-decoration-line: none;
-    margin: 0;
+    margin-top: 370px;
     padding; 0;
 }
 a{
@@ -42,6 +42,10 @@ a{
     font-size: 30;
 }
 li a {
+    margin-top: 370px
     display: block;
     font-size: 30;
+}
+h1{
+    
 }
