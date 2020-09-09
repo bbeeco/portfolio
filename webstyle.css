@@ -17,7 +17,7 @@ ul{
     text-align: center;
     align-content: center;
     text-decoration-line: none;
-    margin-top: 370px;
+    margin-top: 100px;
     padding; 0;
 }
 a{
@@ -25,26 +25,22 @@ a{
     text-decoration: none;
     text-align: center;
     text-decoration-line: none;
-    font-size: 30;
+    font-size: 30px;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 800;
     align-items: center;
 }
 .black_sidebar{
     width: 370px;
-    color: #f6c776;
     height: 65px;
     background-color: black;
-    font-size: 30;
 }
 .yellow_sidebar{
     width: 370px;
-    color: black;
     height: 65px;
-    font-size: 30;
 }
 li a {
-    margin-top: 370px
     display: block;
-    font-size: 30;
 }
 h1{
     
