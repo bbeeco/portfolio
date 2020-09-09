@@ -4,9 +4,9 @@
     height: 764px;
     display: block;
     text-decoration: none;
-    font-size: 45;
     align-content: center;
     text-align: center;
+    padding-top: 30px;
 }
 ul{
     height: 764px;
@@ -17,15 +17,14 @@ ul{
     text-align: center;
     align-content: center;
     text-decoration-line: none;
-    margin-top: 100px;
-    padding; 0;
+    padding-top: 20px;
 }
 a{
     height: 764px;
     text-decoration: none;
     text-align: center;
     text-decoration-line: none;
-    font-size: 30px;
+    font-size: 33px;
     font-family: 'Maven Pro', sans-serif;
     font-weight: 800;
     align-items: center;
@@ -41,7 +40,10 @@ a{
 }
 li a {
     display: block;
+    padding: 10px;
 }
 h1{
-    
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
 }
