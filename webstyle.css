@@ -1,7 +1,7 @@
 .entire_sidebar{
     background-color: #fbc364;
     width: 22.0238vw;
-    height: 766v/h;
+    height: 100%;
     display: block;
     text-decoration: none;
     align-content: center;
@@ -19,7 +19,7 @@ ul{
     padding-left: 0vw;
     margin-top: 0px;
     position: fixed;
-    height: 43.041%;
+    height: 65%;
     width: 22.0238vw;
 }
 a{
@@ -46,6 +46,7 @@ a{
 li a {
     display: block;
     margin: 0px;
+    padding: 2.5vh;
 }
 h1{
     font-family: 'Maven Pro', sans-serif;
