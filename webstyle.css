@@ -57,7 +57,7 @@ h1{
 }
 body{
     margin: 0px;
-    padding: 0;
+    padding: 0px;
 }
 nav{
     padding: 0px;
@@ -69,4 +69,7 @@ nav{
 .resume{
     margin-left: 370px;
 }
-.stinger{padding-top: 760px}
+.stinger{
+    padding-top: 766px;
+    position: fixed;
+}
