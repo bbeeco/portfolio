@@ -1,5 +1,5 @@
 .entire_sidebar{
-    background-color: #f6c776;
+    background-color: #fbc364;
     width: 370px;
     height: 766px;
     display: block;
@@ -66,3 +66,7 @@ nav{
 .my_logo{
     padding-top: 40px;
 }
+.resume{
+    margin-left: 370px;
+}
+.stinger{padding-top: 760px}
