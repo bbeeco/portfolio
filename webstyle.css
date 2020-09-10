@@ -50,7 +50,7 @@ li a {
 }
 h1{
     font-family: 'Maven Pro', sans-serif;
-    font-size: 3vw;
+    font-size: 3.1vw;
     font-weight: 900;
     padding: 0px;
     margin: 0px;
@@ -71,13 +71,14 @@ nav{
 }
 
 h2{
-    padding: 4vmin;
+    padding: 0vmin;
     font-family: 'Maven Pro', sans-serif;
-    font-weight: 700;
-    font-size: 4vw;
-    color: black;
+    font-weight: 800;
+    font-size: 5.5vw;
+    color: white;
+    background-color: black;
     text-align: center;
-    margin: 0px;
+    margin: 0;
 }
 .full_website{
     font-family: 'Maven Pro', sans-serif;
@@ -89,6 +90,12 @@ h2{
     height: 100%;
     position: relative;
 }
-.expirement{
-    position: fixed;
+.imgcontain{
+    cursor: pointer;
+    overflow: hidden;
+    display: block;
+    float: left;
+    clear: none;
+    margin: 5px;
+    align-content: center; 
 }
