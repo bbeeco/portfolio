@@ -1,11 +1,10 @@
 .entire_sidebar{
     background-color: #fbc364;
     width: 22.0238vw;
-    height: 50%;
+    height: 766v/h;
     display: block;
     text-decoration: none;
     align-content: center;
-    text-align: center;
     position: fixed;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -46,7 +45,6 @@ a{
 }
 li a {
     display: block;
-    padding: 1.066%;
     margin: 0px;
 }
 h1{
@@ -55,6 +53,8 @@ h1{
     font-weight: 900;
     padding: 0px;
     margin: 0px;
+    text-align: center;
+    background-color: #fbc364;
 }
 body{
     margin: 0px;
@@ -66,15 +66,9 @@ nav{
 }
 .my_logo{
     padding-top: 16%;
+    text-align: center;
 }
 
-.stinger{
-    top: 82.0128vh;
-    left: 0vw;
-    width: 22.024vw;
-    height: 17.9872%;
-    position: fixed;
-}
 h2{
     margin-left: 22.024vw;
     margin-top: 0px;
@@ -91,4 +85,7 @@ h2{
     margin-left: 22.1vw;
     position: fixed;
     top: 3px;
+}
+.expirement{
+    position: fixed;
 }
