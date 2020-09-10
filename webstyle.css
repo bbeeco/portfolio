@@ -1,26 +1,27 @@
 .entire_sidebar{
     background-color: #f6c776;
     width: 370px;
-    height: 764px;
+    height: 766px;
     display: block;
     text-decoration: none;
     align-content: center;
     text-align: center;
-    padding-top: 30px;
+    position: fixed;
+    padding-top: 40px;
+    padding-bottom: 0px;
 }
 ul{
-    height: 764px;
+    height: 766px;
     font-size: 30; 
     list-style: none;
     list-style-type: none;
     text-decoration: none;
     text-align: center;
-    align-content: center;
     text-decoration-line: none;
-    padding-top: 20px;
+    padding-left: 0px;
 }
 a{
-    height: 764px;
+    height: 766px;
     text-decoration: none;
     text-align: center;
     text-decoration-line: none;
@@ -28,15 +29,16 @@ a{
     font-family: 'Maven Pro', sans-serif;
     font-weight: 800;
     align-items: center;
+    margin: 0;
 }
 .black_sidebar{
     width: 370px;
-    height: 65px;
+    height: 67px;
     background-color: black;
 }
 .yellow_sidebar{
     width: 370px;
-    height: 65px;
+    height: 67px;
 }
 li a {
     display: block;
@@ -44,6 +46,15 @@ li a {
 }
 h1{
     font-family: 'Maven Pro', sans-serif;
-    font-size: 50px;
+    font-size: 54px;
     font-weight: 900;
+    padding: 0px;
+    margin: 0;
+}
+nav{
+    margin: 0;
+}
+body{
+    margin: 10px;
+    
 }
