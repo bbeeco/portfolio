@@ -56,5 +56,8 @@ nav{
 }
 body{
     margin: 10px;
-    
+}
+img{
+    padding: 0;
+    margin: 0;
 }
