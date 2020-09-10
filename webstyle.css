@@ -1,7 +1,7 @@
 .entire_sidebar{
     background-color: #fbc364;
-    width: 370px;
-    height: 766px;
+    width: 22.0238%;
+    height: 82.0128%;
     display: block;
     text-decoration: none;
     align-content: center;
@@ -12,7 +12,6 @@
     margin: 0px;
 }
 ul{
-    height: 766px;
     font-size: 30; 
     list-style: none;
     list-style-type: none;
@@ -21,13 +20,13 @@ ul{
     text-decoration-line: none;
     padding-left: 0px;
     margin: 0px;
+    height: 100%;
 }
 a{
-    height: 766px;
     text-decoration: none;
     text-align: center;
     text-decoration-line: none;
-    font-size: 40px;
+    font-size: 250%;
     font-family: 'Maven Pro', sans-serif;
     font-weight: 800;
     align-items: center;
@@ -35,22 +34,22 @@ a{
     padding: 0;
 }
 .black_sidebar{
-    width: 370px;
-    height: 67px;
+    width: 100%;
+    height: 16.66667%;
     background-color: black;
 }
 .yellow_sidebar{
-    width: 370px;
-    height: 67px;
+    width: 100%;
+    height: 16.66667%;
 }
 li a {
     display: block;
-    padding: 10px;
+    padding: 2.487%;
     margin: 0px;
 }
 h1{
     font-family: 'Maven Pro', sans-serif;
-    font-size: 54px;
+    font-size: 325%;
     font-weight: 900;
     padding: 0px;
     margin: 0px;
@@ -64,12 +63,12 @@ nav{
     margin: 0px;
 }
 .my_logo{
-    padding-top: 40px;
+    padding-top: 16%;
 }
 .resume{
-    margin-left: 370px;
+    margin-left: 22.0238%;
 }
 .stinger{
-    margin-top: 766px;
+    margin-top: 82.0128%;
     position: fixed;
 }
