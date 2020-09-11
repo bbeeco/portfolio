@@ -10,7 +10,7 @@
     padding-bottom: 0px;
     margin: 0vmin;
 }
-ul{ 
+.menu{ 
     list-style: none;
     list-style-type: none;
     text-decoration: none;
@@ -71,13 +71,13 @@ nav{
 }
 
 h2{
-    padding: 0vmin;
+    padding: .5vmin;
     font-family: 'Maven Pro', sans-serif;
     font-weight: 800;
     font-size: 5.5vw;
     color: white;
     background-color: black;
-    text-align: center;
+    text-align: left;
     margin: 0;
 }
 .full_website{
@@ -103,4 +103,28 @@ h2{
     position: fixed;
     right: 0px;
     bottom: 0px;
+}
+p{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 1.6vw;
+    font-kerning: normal;
+    font-weight: 300;
+    text-align: left;
+    margin: 5px;
+    padding: 5px;
+}
+h3{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 3vw;
+    font-weight: 600;
+    margin: 5px;
+    margin: 5px;
+}
+.abtmecont{
+    width: 700px;
+}
+ul{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 1.6vw;
+    font-weight: 300;
 }
