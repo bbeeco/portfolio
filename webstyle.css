@@ -1,4 +1,5 @@
 .entire_sidebar{
+    top: 0px;
     background-color: #fbc364;
     width: 22.0238vw;
     height: 100%;
@@ -77,13 +78,16 @@ h2{
     width: 100%;
     padding-left: 15px;
     padding-bottom: 5px;
+    position: fixed;
+    top:0px;
+    height: 114px;
 }
 .full_website{
     font-family: 'Maven Pro', sans-serif;
+    margin: 0px;
 }
 .restofpage{
     margin-left: 22.0238vw;
-    margin-top: 0;
     margin-bottom: 0;
     margin-right: 0;
     padding: 0px;
@@ -129,7 +133,7 @@ ul{
     font-weight: 300;
 }
 .backbutt{
-    width: 20%;
+    width: 10%;
     height: 10%;
     text-decoration: none;
     text-align: center;
@@ -141,7 +145,7 @@ ul{
     margin: 0;
     padding: 0;
     color: black;
-    background-color: #fbc364
+    background-color: #fbc364;
 }
 a{
     text-decoration: none;
@@ -151,10 +155,22 @@ a{
     height: 100%;
     padding-left: 0;
     margin: 5px;
-}
-.click{
-    height: 18%;
+    align-content: center;
+    display:block;
+    width:80%;
 }
 .fullgall{
     padding: 10px;
+}
+.text{
+    color:black;
+    font-weight: 700;
+    font-size: 60px;
+    background-color: #fbc364;
+    margin: 5px;
+    text-align: center
+}
+.withouthead{
+    margin-top: 114.px;
+    position:static;
 }
