@@ -50,7 +50,7 @@ li a {
 }
 h1{
     font-family: 'Maven Pro', sans-serif;
-    font-size: 3.1vw;
+    font-size: 3vw;
     font-weight: 900;
     padding: 0px;
     margin: 0px;
@@ -66,7 +66,7 @@ nav{
     margin: 0px;
 }
 .my_logo{
-    padding-top: 10%;
+    padding-top: 5%;
     text-align: center;
 }
 
@@ -98,4 +98,9 @@ h2{
     clear: none;
     margin: 5px;
     align-content: center; 
+}
+.me{
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
 }
