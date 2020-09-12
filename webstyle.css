@@ -75,7 +75,6 @@ h2{
     font-size: 5.5vw;
     color: #fbc364;
     background-color: black;
-    text-align: left;
     margin: 0;
     width: 100%;
     padding-top: 5px;
@@ -185,8 +184,19 @@ a{
 .gdcont{
     position: relative;
     align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
 }
 .protext{
     display: block;
+    float: none;
+    right: 0;
     width: 80%;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
 }
