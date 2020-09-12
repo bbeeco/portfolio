@@ -78,6 +78,7 @@ h2{
     text-align: left;
     margin: 0;
     width: 100%;
+    padding-top: 5px;
     padding-left: 15px;
     padding-bottom: 5px;
     position: fixed;
@@ -124,7 +125,6 @@ h3{
     font-family: 'Maven Pro', sans-serif;
     font-size: 3vw;
     font-weight: 600;
-    margin: 5px;
     margin: 5px;
 }
 .abtmecont{
@@ -181,4 +181,12 @@ a{
 .withouthead{
     top: 119px;
     position: relative;
+}
+.gdcont{
+    position: relative;
+    align-content: center;
+}
+.protext{
+    display: block;
+    width: 80%;
 }
